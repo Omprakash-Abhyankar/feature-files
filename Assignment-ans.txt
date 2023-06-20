@@ -1,0 +1,43 @@
+1) Command to initialize git repository
+Ans=> git init
+
+2) Command to clone remote repository
+Ans=> git clone https://github.com/Omprakash-Abhyankar/feature-files.git
+
+3) Command to stage all changes
+Ans=> git add .
+
+
+4) Command to view state of working directory and staging area
+Ans=> git status
+
+5) Command to create new branch
+Ans=> git branch <branch-name>
+e.g => git branch feature/new-feature
+
+
+6) Command to change branch
+Ans=> git checkout <branch-name>
+
+7) Command to clean staging area
+Ans=> git reset
+Or git reset --hard
+
+8) Command to get commits and changes from remote branch (It should merge changes in 
+current branch).
+Ans=> git fetch <remote> <branch-name>
+
+
+9) Command to cherry pick commit which SHA => 092018283103810930
+Ans=> git cherry-pick 092018283103810930
+
+10) Command to push branch
+Ans=>git push <remote> <branch-name>
+ 
+11) Command to delete remote branch
+Ans=> git push <remote> --delete <branch-name>
+e.g => git push origin --delete feature/new-feature
+
+
+12) Command to do iterative rebase
+Ans=> git rebase -i <commit>
