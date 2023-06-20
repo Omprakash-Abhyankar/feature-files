@@ -1,1 +1,5 @@
-Keep your enemies close, but your friends distant.
+<<<<<<< HEAD
+Keep your enemies close but your friends distant.
+=======
+KEEP YOUR FRIENDS CLOSE BUT YOUR ENEMIES CLOSER.
+>>>>>>> 0f7e23b0fb695c4dce000dfb90ceaa653e08a9be
